@@ -6,7 +6,7 @@ return `「 *PRICE LIST* 」
 ⬡ 1 jam test sebelum beli free 
 
 
-⬡ PERMANEN+USER PREM = Rp 7.000
+⬡ PERMANEN+USER PREM = Rp 20.000
 
 
 
@@ -14,7 +14,7 @@ return `「 *PRICE LIST* 」
 
 
 ⬣ MINAT? PM
-⬡ wa.me/6285803583481
+⬡ wa.me/1(204)8004190
 
 
 NOTE : 
