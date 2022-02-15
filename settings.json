@@ -1,0 +1,21 @@
+{
+    "self_mode": false,
+	"autobio": false,
+	"msg_connected": true,
+	"user_register": true,
+	"anti_delete" : false,
+	"anticall": false,
+	"auto_welcome_msg": true,
+	"auto_leave_msg": true,
+	"prefix": ".",
+	"language":"ind",
+	"ownerNumberr": "6287719376540",
+	"ownername": "ᴹᴿ᭄Kadrian ×፝֟͜×",
+	"botname":"Kadrian",
+	"thumb":"BetaBot_1.jpg",
+	"thumbnail":"BetaBot_2_1.jpg",
+	"fakethumb":"BetaBot_1.jpg", 
+	"donasi":"Donasi_1.jpg",
+	"captionpay":"Scan untuk melakukan pembayaran",
+	"fake": " 「  KADRIAN  」\nCreated By ᴹᴿ᭄ Kadrian ×፝֟͜×"
+}
